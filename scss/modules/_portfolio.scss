@@ -6,6 +6,10 @@
     	cursor: pointer;
 	}
 
+	button{
+		border:none;
+	}
+
 	margin-top:1em;
 
 	h2{
@@ -59,6 +63,8 @@
 		 				background-repeat: no-repeat;
 		 				min-height:100%;
 		 				position:relative;
+		 				width:100%;
+		 				border:none;
 
 
 		 			}
